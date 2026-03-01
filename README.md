@@ -17,6 +17,10 @@ and export the results to CSV format.
 ```bash
 pip install -r requirements.txt
 ```
+
+## First run the db scripts for database setup
+- python db_setup.py (creates database and tables)
+
 ## How to Run the Scripts
 All scripts must be run from the project root directory:
 cd data-engineer-assignment
