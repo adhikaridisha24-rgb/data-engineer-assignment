@@ -1,1 +1,2 @@
 pandas
+#(SQLite is built-in with Python)
