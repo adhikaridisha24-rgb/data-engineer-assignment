@@ -16,7 +16,7 @@ and export the results to CSV format.
 ### Install dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 ## How to Run the Scripts
 All scripts must be run from the project root directory:
 cd data-engineer-assignment
