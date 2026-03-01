@@ -16,3 +16,20 @@ and export the results to CSV format.
 ### Install dependencies
 ```bash
 pip install -r requirements.txt
+
+### How to Run the Scripts
+All scripts must be run from the project root directory:
+cd data-engineer-assignment
+
+### Run SQL Solution
+python sql_solution.py
+This generates:
+output_sql.csv (in the same directory)
+
+### Run Pandas Solution
+python pandas_solution.py
+This generates:
+output_pandas.csv (in the same directory)
+
+### Output Format
+Both scripts produce CSV files
